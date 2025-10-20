@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\student_records\target\debug\student_records.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\student_records\src\main.rs
