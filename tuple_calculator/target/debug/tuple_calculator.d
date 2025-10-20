@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\tuple_calculator\target\debug\tuple_calculator.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\tuple_calculator\src\main.rs
