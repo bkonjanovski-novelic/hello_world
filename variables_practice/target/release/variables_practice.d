@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\variables_practice\target\release\variables_practice.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\variables_practice\src\main.rs
