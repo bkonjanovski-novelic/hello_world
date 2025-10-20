@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\type_exploration\target\debug\type_exploration.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\type_exploration\src\main.rs
