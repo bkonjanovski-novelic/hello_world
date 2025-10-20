@@ -23,4 +23,15 @@ Write a program that demonstrates:
 Create a program that:  
 1. Stores three numbers in a tuple  
 2. Destructures the tuple  
-3. Calculates and prints the sum, a
+3. Calculates and prints the sum, average, and product of the numbers  
+
+---
+
+**Challenge Exercise: Student Records**
+
+Create a program that uses tuples to store student records:  
+1. Create 3 tuples, each containing: (name, age, grade_average)  
+2. Print a formatted table of all students  
+3. Calculate the average grade of all students  
+
+**Bonus:** Use arrays to store multiple tuples and iterate through them.
