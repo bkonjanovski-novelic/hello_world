@@ -1,8 +1,2 @@
-# Hello World in Rust
+# Week 2: Variables, Data Types, and Mutability
 
-My first Rust program created while learning the language.
-
-## How to Run
-
-```bash
-cargo run
