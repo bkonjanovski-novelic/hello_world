@@ -1,3 +1,9 @@
+# Week 2: Variables, Data Types, and Mutability
+
+# Exercises
+
+---
+
 **Exercise 1: Variable Practice**
 
 Create a new project called `variables_practice` and write a program that:  
