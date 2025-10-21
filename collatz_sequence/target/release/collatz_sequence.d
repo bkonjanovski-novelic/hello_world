@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\collatz_sequence\target\release\collatz_sequence.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\collatz_sequence\src\main.rs
