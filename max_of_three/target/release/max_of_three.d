@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\max_of_three\target\release\max_of_three.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\max_of_three\src\main.rs
