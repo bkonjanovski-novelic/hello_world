@@ -1,0 +1,1 @@
+C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\multiplication_table\target\debug\multiplication_table.exe: C:\Users\BorjanKonjanovski\Desktop\RUST\rust_learning_initiative\multiplication_table\src\main.rs
